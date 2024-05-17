@@ -7,13 +7,13 @@ Het is wel gelukt om drifts te zien te krijgen bij een linear magneetveld.
 
 ## Afbeeldingen
 
-Bij het project zitten enkele afbeeldingen van resultaten van het model. _linearDrifts_ laat drifts zien van deeltjes (twee met positieve lading, één met negatieve lading) in een linear veld. _toroidalPandT_ toont hoe een proton (paars) (H-1-kern) en een tritiumkern (rood) een ander pad volgen door hun verschil in lading en massa, ondanks dat ze in hetzelfde punt beginnen.
+Bij het project zitten enkele afbeeldingen van resultaten van het model. _linearDrifts_ laat drifts zien van deeltjes (twee met positieve lading, één met negatieve lading) in een linear veld. _toroidalPandT_ toont hoe een proton (H-1-kern) (paars) en een tritiumkern (rood) een ander pad volgen door hun verschil in lading en massa, ondanks dat ze in hetzelfde punt beginnen.
 
 De afbeeldingen _WhatN_ laten zien dat het leven van een programmeur niet makkelijk is.
 
 ## Referenties
 
-Voor de gegevens van ITER is gebruikgemaakt van de volgende bron:
+Voor de gegevens van ITER is gebruikgemaakt van de volgende bron: \
 ITER. (n.d.). _Magnets._ <https://www.iter.org/mach/Magnets>
 
 Verder is benoemingswaardig dat de Geachte Dr.ir. M.F.M. Steenbakkers mij meerdere malen buiten lestijden om de tijd heeft genomen om mij de wiskunde uit te leggen en op het juiste pad te sturen.
