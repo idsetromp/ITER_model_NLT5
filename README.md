@@ -16,4 +16,4 @@ De afbeeldingen _WhatN_ laten zien dat het leven van een programmeur niet makkel
 Voor de gegevens van ITER is gebruikgemaakt van de volgende bron: \
 ITER. (n.d.). _Magnets._ <https://www.iter.org/mach/Magnets>
 
-Verder is benoemingswaardig dat de Geachte Dr.ir. M.F.M. Steenbakkers mij meerdere malen buiten lestijden om de tijd heeft genomen om mij de wiskunde uit te leggen en op het juiste pad te sturen.
+Verder is benoemingswaardig dat de Geachte Dr.ir. M.F.M. Steenbakkers meerdere malen buiten lestijden om de tijd heeft genomen om mij de wiskunde uit te leggen en op het juiste pad te sturen.
